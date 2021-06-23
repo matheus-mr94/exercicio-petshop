@@ -1,0 +1,10 @@
+.container1{
+    margin-top: 50px;
+    background-color: rgba(255, 203, 60, 0.6);
+    width: 350px;
+    border-radius: 10px;
+}
+.cadastro{    
+    background-image: url('../../Componentes/Imagens/pegadas.png');
+
+}

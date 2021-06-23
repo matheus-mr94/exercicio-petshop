@@ -1,0 +1,16 @@
+
+  .imagem{
+    background-color: #fff48fef;
+    display: flex;    
+    justify-content: center;
+    margin:0;
+  }
+  .container-fluid{
+    border: 5px  #212529 solid;
+  }
+  footer{
+    display: flex; 
+    justify-content: center; 
+    color: white;
+    background-color: #212529;
+  }
